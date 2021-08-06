@@ -36,4 +36,10 @@ HOG là một feature descriptor được sử dụng trong computer vision và 
 Sau khi dự đoán, nếu có đối tượng biển báo trong hình thì ta sẽ tiến hành trả về tọa độ vị trí của đối tượng.
 
 Model sử dụng trong bài toán này: SVM và KNN
-
+# Thử nghiệm trên những bức ảnh mới:
+Thử test trên những bức ảnh chụp dọc đường hoặc một số hình ảnh trên mạng.
+<img src="images/pre_2.jpg">
+<img src="images/pre_3.jpg">
+<img src="images/pre_4.jpg">
+<img src="images/pre_5.jpg">
+<img src="images/predict_2.jpg">
